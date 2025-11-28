@@ -1,0 +1,68 @@
+# ================= #
+# Unity generated   #
+# ================= #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+sysinfo.txt
+
+# ================= #
+# Visual Studio     #
+# ================= #
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.mdb
+*.log
+
+# ================= #
+# OS generated      #
+# ================= #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# ================= #
+# Package Manager   #
+# ================= #
+/Packages/com.unity.collab-proxy/
+# Ignore package cache
+/Library/PackageCache/
+
+# ================= #
+# Asset Store       #
+# ================= #
+/Assets/AssetStoreTools*
+
+# ================= #
+# JetBrains Rider   #
+# ================= #
+.idea/
+*.sln.iml
+
+# ================= #
+# Others            #
+# ================= #
+*.swp
+*.tmp
+*.bak
