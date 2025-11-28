@@ -3315,7 +3315,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1637943112}
+      - m_Target: {fileID: 1497703893}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
@@ -4320,7 +4320,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1637943112}
+      - m_Target: {fileID: 1343940158}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
@@ -4693,7 +4693,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1041581249
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6110,7 +6110,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1254440724
 RectTransform:
   m_ObjectHideFlags: 0
@@ -9993,7 +9993,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: (beacause next year wil be extra special)
+  m_text: (because next year will be extra special)
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 65032bdf8f20ae649b786751bd02f96e, type: 2}
   m_sharedMaterial: {fileID: -3253918538554226276, guid: 65032bdf8f20ae649b786751bd02f96e, type: 2}
